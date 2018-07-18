@@ -109,6 +109,13 @@ td {
   padding: 20px;
 }
 
+.img-circle-100 {
+  width: 110px;
+  border-radius: 50%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
 .img-rectToSqr {
   padding-top: 40px;
   padding-bottom: 40px;
